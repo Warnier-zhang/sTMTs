@@ -14,7 +14,11 @@
 
 ## 更新日志
 
-### v0.1.0 [下载](https://github.com/Warnier-zhang/sTMTs/releases/download/v0.1.0/sTMTs-0.1.0-setup.exe)
+### v0.1.1 [下载](https://github.com/Warnier-zhang/sTMTs/releases/download/v0.1.1/sTMTs-0.1.1-setup.exe)
+
+- 优化：更新**首页**布局
+
+### v0.1.0
 
 - 新功能：**首页**
   - 下载财务报告（Excel版）
